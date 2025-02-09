@@ -1,4 +1,4 @@
-# Bike Ride App 🚲st
+# Best Bike Ride App 
 
 A Flutter application that helps cyclists determine the best days and times for their rides based on weather conditions. The app provides a 7-day weather forecast with an intuitive quality score system to help users plan their cycling activities effectively.
 
